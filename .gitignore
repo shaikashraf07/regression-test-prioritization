@@ -1,6 +1,5 @@
+venv/
 .venv/
 __pycache__/
 .pytest_cache/
 *.pyc
-models/*.joblib
-reports/*.csv
